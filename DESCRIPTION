@@ -1,5 +1,5 @@
-Package: nanostring
-Title: Nanostring
+Package: nanoprot
+Title: Nanoprot
 Version: 0.1.0
 Date: 2020-04-13
 Authors@R: c(person("Janice","Patterson", role = c("aut", "cre"), email="patterja@ohsu.edu"))
@@ -8,8 +8,8 @@ Imports: utils, stats
 Suggests: knitr, rmarkdown, testthat, xlsx, ruv, reshape2
 Description: This package is for analyzing nanostring data 
 License: LICENSE
-URL: http://github.com/patterja/nanostring
-BugReports: http://github.com/patterja/nanostring
+URL: http://github.com/patterja/nanoprot
+BugReports: http://github.com/patterja/nanoprot
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
